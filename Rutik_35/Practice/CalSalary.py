@@ -1,0 +1,1 @@
+# WAP to create a function to calculate the salary
