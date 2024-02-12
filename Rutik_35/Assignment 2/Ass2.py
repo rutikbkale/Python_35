@@ -6,7 +6,7 @@ transposeM=[[0,0,0],[0,0,0],[0,0,0]]
 
 for i in range(len(matrix)):
     for j in range(len(matrix[0])):
-        transposeM[i][j]=matrix[j][i]
+        transposeM[i][j]=matrix[j][i]   
 
 print("Transpose matrix : ",transposeM)
 
