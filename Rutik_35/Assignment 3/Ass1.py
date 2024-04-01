@@ -9,5 +9,5 @@ with open("sample.txt", "r") as file1:
     reverse = content[::-1]
     print("Reversed content:", reverse)
 
-with open("reversed_sample.txt", "w") as reversed_file:
-    reversed_file.write(reverse)
+# with open("reversed_sample.txt", "w") as reversed_file:
+#     reversed_file.write(reverse)
