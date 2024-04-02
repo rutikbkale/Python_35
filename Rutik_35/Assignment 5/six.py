@@ -29,5 +29,5 @@ for i in range(5):
     m=int(input(f"Enter marks for {i+1} subject : "))
     marks.append(m)
 
-obj = Report(adNo, name, marks)
+obj = Report(adNo, name, marks )
 obj.displayInfo()
